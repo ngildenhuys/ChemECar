@@ -1,0 +1,12 @@
+Parts list for Chem-E-Car Circuit
+
+Boost Converter: https://www.amazon.com/dp/B06XWSV89D/ref=psdc_10967761_t1_B07RNBJK5F
+
+Control Arduino: https://store.arduino.cc/usa/arduino-micro
+
+Battery Holder Options:
+   Chose whichever one is gonna work better with the space you have in the car
+   1. https://www.amazon.com/Hilitchi-Thicken-Battery-Standard-Connector/dp/B019P0VDRO/ref=sr_1_1?keywords=6+aa+battery+holder&qid=1583606816&sr=8-1
+   2. https://www.amazon.com/Battery-Holder-Connector-Output-Corpco/dp/B01IRX4DOU/ref=sr_1_2?keywords=6+aa+battery+holder&qid=1583606816&sr=8-2
+
+The rest of the parts I can obtain from the ECE parts shop.
