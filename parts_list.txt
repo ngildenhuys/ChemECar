@@ -10,3 +10,10 @@ Battery Holder Options:
    2. https://www.amazon.com/Battery-Holder-Connector-Output-Corpco/dp/B01IRX4DOU/ref=sr_1_2?keywords=6+aa+battery+holder&qid=1583606816&sr=8-2
 
 The rest of the parts I can obtain from the ECE parts shop.
+
+
+TEG:
+
+https://www.adafruit.com/product/2377
+https://www.adafruit.com/product/284
+https://www.amazon.com/WeiMeet-RFP30N06LE-N-Channel-Mosfet-Arduino/dp/B07CTF1JVD/ref=sr_1_1?dchild=1&keywords=mosfet&qid=1602436267&sr=8-1#descriptionAndDetails
